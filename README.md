@@ -45,8 +45,6 @@ The analysis helps understand:
 Customer-Spending-Analysis/
 │
 ├── customer_spending_analysis.ipynb
-├── images/
-│   └── project_screenshot.png
 └── README.md
 
 ▶️ How to Run
